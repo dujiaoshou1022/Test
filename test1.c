@@ -15,6 +15,7 @@ int main()
 	while(1)
 	{
 		printf("Nice world\n");
+		printf("Nice world\n");
 	}
 	return 0;
 
